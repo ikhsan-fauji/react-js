@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+# React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React bukanlah framework melainkan library javascript yang digunakan untuk membangun user interfaces
+
+## Keunggulan React
+
+### Declarative
+
+Rancangan tampilan yang sederhana untuk setiap keadaan.
+React akan memperbarui dan merender komponen yang tepat secara efisien ketika ada perubahan data.
+Tampilan yang deklaratif membuat kode yang kamu buat dapat lebih mudah diprediksi dan didebug.
+
+### Comonent-Based
+
+Kamu dapat membuat komponen-komponen yang mengelola state mereka sendiri, kemudian kamu dapat menusunnya menjadi tampilan yang komplex.
+
+### Learn Once, Write Anywhere
+
+Kamu bisa membuat fitur baru tanpa menulis ulang kode yang sudah ada.
+React juga dapat dirender di server menggunakan node dan mendukung mobile app menggunakan React Native.
 
 ## Available Scripts
 

@@ -28,6 +28,10 @@ Kompoen-komponen react mengimplementasikan / menggunakan metode render() untuk m
 Selain menggunakan props untuk mengambil inputan data, komponen dapat mengelola data internal nya sendiri menggunakan state. State dapat diakses dengan cara this.state.namaState.
 Ketika state data pada sebuah komponen berubah, markup yang sudah dirender akan memangil kembali method render().
 
+### An Application
+
+Dengan menggunakan props dan state, kita dapat menggunakan keduanya untuk membuat sebuah aplikasi.
+
 ## Available Scripts
 
 In the project directory, you can run:

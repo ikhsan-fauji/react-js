@@ -23,6 +23,11 @@ React juga dapat dirender di server menggunakan node dan mendukung mobile app me
 
 Kompoen-komponen react mengimplementasikan / menggunakan metode render() untuk mengambil inputan data dan mengembalikan apa yang akan ditampilkan. Inputan data yang dikirimkan ke komponen dapat diakses oleh method render() melalui props, contohnya this.props.namaProps.
 
+### Statefull Component
+
+Selain menggunakan props untuk mengambil inputan data, komponen dapat mengelola data internal nya sendiri menggunakan state. State dapat diakses dengan cara this.state.namaState.
+Ketika state data pada sebuah komponen berubah, markup yang sudah dirender akan memangil kembali method render().
+
 ## Available Scripts
 
 In the project directory, you can run:
